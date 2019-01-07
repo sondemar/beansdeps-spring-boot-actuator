@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "management.endpoint.beans-deps.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Enable the endpoint."
+    }
+  ]
+}
